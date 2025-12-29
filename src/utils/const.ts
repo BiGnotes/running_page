@@ -179,15 +179,15 @@ export const SWIMMING_COLOR = 'rgb(255,51,51)';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
-export const MAP_TILE_VENDOR = 'maptiler';
+export const MAP_TILE_VENDOR = 'stadiamaps';
 
 // map tiles style name, see MAP_TILE_STYLES for more details
-export const MAP_TILE_STYLE = 'dataviz-dark';
+export const MAP_TILE_STYLE = 'alidade_smooth_dark';
 
 // access token. you can apply a new one, it's free.
 // maptiler: Gt5R0jT8tuIYxW6sNrAg | sign up at https://cloud.maptiler.com/auth/widget
 // stadiamaps: 8a769c5a-9125-4936-bdcf-a6b90cb5d0a4 |sign up at https://client.stadiamaps.com/signup/
-export const MAP_TILE_ACCESS_TOKEN = '4aJpbnXCrn5YfITRg0Sj';
+export const MAP_TILE_ACCESS_TOKEN = '8a769c5a-9125-4936-bdcf-a6b90cb5d0a4';
 
 export const MAP_TILE_STYLES = {
   maptiler: {
