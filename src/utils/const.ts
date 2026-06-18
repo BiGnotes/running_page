@@ -173,16 +173,16 @@ export const COUNTRY_FILL_COLOR = dark_vanilla;
 export const RUN_COLOR = MAIN_COLOR;
 export const RUN_TRAIL_COLOR = 'rgb(255,153,51)';
 export const CYCLING_COLOR = 'rgb(51,255,87)';
-export const HIKING_COLOR = 'rgb(151,51,255)';
-export const WALKING_COLOR = HIKING_COLOR;
-export const SWIMMING_COLOR = 'rgb(255,51,51)';
+export const HIKING_COLOR = 'rgb(151,51,255)'；
+游泳颜色缢 行走颜色 = 徒步旅行_颜色；
+出口 缢 SWIMMING_COLOR = 'rgb(255,51,51)'；
 
-// map tiles vendor, maptiler or mapbox or stadiamaps
-// if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
-export const MAP_TILE_VENDOR = 'mapbox';
+// 地图瓦片供应商、maptiler 或 mapbox 或 stadiamaps
+// 如果要使用 maptiler，请在 MAP_TILE_ACCESS_TOKEN 中设置访问令牌
+export const MAP_TILE_VENDOR = 'mapcn';
 
 // map tiles style name, see MAP_TILE_STYLES for more details
-export const MAP_TILE_STYLE = 'dark-v11';
+export const MAP_TILE_STYLE = 'osm-bright';
 
 // access token. you can apply a new one, it's free.
 // maptiler: Gt5R0jT8tuIYxW6sNrAg | sign up at https://cloud.maptiler.com/auth/widget
